@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div id="home">
+  <h1>News</h1>
+  <div class="posts">
+    {% for post in site.posts %}
+      <article>
+        <h1><time class="release">{{ post.date | date_to_string }}</time>{{ post.title }}</h1>
+        <p>{{ post.content }}</p>
+      </article>
+    {% endfor %}
+  </div>
+</div>

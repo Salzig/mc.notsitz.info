@@ -1,0 +1,5 @@
+name: Minecraft | Slocraft/Notsitz
+markdown: redcarpet
+pygments: true
+encoding: UTF-8
+exclude: [Rakefile, Gemfile, Gemfile.lock]
