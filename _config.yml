@@ -1,4 +1,7 @@
 name: Minecraft | Slocraft/Notsitz
+description: Newsticker für Slocraft/Minecraft-Notsitz
+url: http://mc.notsitz.info
+
 markdown: redcarpet
 pygments: true
 encoding: UTF-8
