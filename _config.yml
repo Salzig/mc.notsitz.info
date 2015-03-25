@@ -3,6 +3,6 @@ description: Newsticker für Slocraft/Minecraft-Notsitz
 url: http://mc.notsitz.info
 
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 encoding: UTF-8
 exclude: [Rakefile, Gemfile, Gemfile.lock]
